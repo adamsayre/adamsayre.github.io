@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Review - To Gaze Upon Wicked Gods by Molly X. Chang"
+title:  "Review: To Gaze Upon Wicked Gods by Molly X. Chang"
 date:   2024-07-06 15:11:00 -0500
 categories: review
 ---
