@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Review - The Shutouts by Gabrielle Korn"
+title:  "Review: The Shutouts by Gabrielle Korn"
 date:   2024-08-30 10:15:00 -0500
 categories: review
 ---
