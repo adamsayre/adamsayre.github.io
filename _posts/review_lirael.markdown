@@ -5,7 +5,7 @@ date:   2024-06-15 14:07:00 -0500
 categories: review
 ---
 
-* Sam is Annoying and That's Okay *
+# Sam is Annoying and That's Okay 
 
 I think it's an interesting twist to have a POV character be as annoying, cowardly, and ineffective as Sam. Especially since these books are filled with other characters that reflect varying levels of competence and confidence. Lirael is an interesting contrast to this character, she's got low confidence but high competence. And that's further opposed to Sabriel in book 1, with low competence and medium to high confidence. I think Sam's a logical extension of this exploration of characters and I appreciate that he's not the typical "spoiled prince" or "scared little boy" archetype.
 
