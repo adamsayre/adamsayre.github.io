@@ -8,17 +8,17 @@ categories: review
 
 # The Gig Economy Visits Fantasy
 
-"So, you wanna be a warlock?" drones the Indoctrination Superintendent, whose title is only obvious because of a voluminous etching on the table between them and Varo. Varo doesn't know what it says, but assumes it says Indoctrination Superintendent.
+"So, you wanna be a warlock?" drones the Indoctrination Superintendent, whose title is only known because someone told Varo earlier. There's something on the table between them and Varo. Varo doesn't know what it says, but assumes it says Indoctrination Superintendent.
 
 Varo nods, not trusting themself to much speech today.
 
 "Fine, just fine," the superintendent (whose name is still a mystery) slides a sheaf of papers across the way to Varo. "Read this and then let me know if you agree to it."
 
-Varo is directed to a chair among a group against a wall. The entrance they had come through into this office was dark, grimy, and dripping with mysterious liquid. Precisely what one would expect when signing up to be a warlock. The office itself was clean, brightly lit, and dry of any liquid. 
+Varo is directed to a chair among a group against a wall. The entrance they had come through into this office was dark, grimy, and dripping with mysterious liquid. Precisely what one would expect when signing up to be a warlock. The office itself was clean, brightly lit, and dry of any liquid. Precisely what one wouldn't expect of an indoctrination office.
 
-Varo idly flipped through pages of the sheaf, which seemed a well-worn and yellowing around the edges sort of sheaf. Words like "indemnity" and "arbitration" and "coaxial" floated up towards them from the page, and floated right on past, deflected by Varo's incomprehension of this language.
+Varo idly flipped through pages of the sheaf, which seemed a well-worn and yellowing around the edges sort of sheaf. Words floated (figuratively) off the page and past Varo, deflected by Varo's incomprehension of this language.
 
-They take a moment to watch the goings on of the office. A few people come in, dropped pieces of paper on the Superintendent's desk, and a few others come and take other papers away. The Superintendent seems to be largely unaware of these papers, engrossed instead in a page that glows with a soft light towards their face. 
+They take a moment to watch the goings on of the office. A few people come in, dropped pieces of paper on the Superintendent's desk, and a few others come and take other papers away. The Superintendent seems to be largely unaware of these papers, engrossed instead in a page that glows with a soft light that illuminates their face. 
 
 After a few dozen minutes of paper comings and goings, Varo concludes they're largely useless. They're pretty sure they saw a few of the same papers twice, maybe three times. Varo also concludes that they've spent enough time "reading" the sheaf and can reapproach the Superintendent, who nods at them, retrieves the sheaf, and presents Varo with the glowing paper they were working on before.
 
@@ -26,9 +26,9 @@ After a few dozen minutes of paper comings and goings, Varo concludes they're la
 
 "Choose your preferred written language," drones the Superintendent, eyes deep in another glowing paper. 
 
-Varo selects the one that they recognize most of the letters of. They'd been speaking a common enough tongue, but written language was a world all of its own. 
+Varo selects the one that they recognize most of the letters of. They'd been speaking a common enough tongue, but written language was a world all of its own. A world that Varo hadn't much visited.
 
-The page rearranged again to say Welcome, new Wanlock! A large-eyed smiling animal grins from behind the words. Varo doesn't recognize it. Varo's also only mostly sure what the words say, most words have a nasty habit of swimming together in their eyes.
+The page rearranged again to say *Welcome, new Wanlock!* A large-eyed smiling animal grins from behind the words. Varo doesn't recognize it. Varo's also only mostly sure what the words say, most words have a nasty habit of swimming together in their eyes.
 
 "Thank you for your service, please make sure to provide a review of your experience on the next page," the Superintendent reaches across the table and brushes the parchment. 
 
