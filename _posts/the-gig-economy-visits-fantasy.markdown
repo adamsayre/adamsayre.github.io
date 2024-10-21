@@ -2,7 +2,7 @@
 layout: post
 title:  "The Gig Economy Visits Fantasy"
 date:   2024-06-15 14:01:00 -0500
-categories: review
+categories: fiction
 ---
 
 
