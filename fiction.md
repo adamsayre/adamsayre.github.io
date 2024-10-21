@@ -15,6 +15,5 @@ permalink: /fiction/
 </h3>
     {{ post.excerpt }}
 </li>
-</ul>
 
 {% endfor %}
