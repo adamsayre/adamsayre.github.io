@@ -2,7 +2,7 @@
 layout: post
 title:  "Review: Lirael - Garth Nix"
 date:   2024-06-15 14:07:00 -0500
-categories: review
+categories: reviews
 ---
 
 # Sam is Annoying and That's Okay 

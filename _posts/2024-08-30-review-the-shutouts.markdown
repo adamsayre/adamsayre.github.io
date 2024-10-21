@@ -2,7 +2,7 @@
 layout: post
 title:  "Review: The Shutouts by Gabrielle Korn"
 date:   2024-08-30 10:15:00 -0500
-categories: review
+categories: reviews
 ---
 
 This is a story about mothers and daughters, surviving. Though calling it about daughters excludes the non-binary character, so I suppose a better way to describe this is a story about mothers and their children surviving.

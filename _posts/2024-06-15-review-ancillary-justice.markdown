@@ -2,7 +2,7 @@
 layout: post
 title:  "Review: Ancillary Justice - Ann Leckie"
 date:   2024-06-15 14:01:00 -0500
-categories: review
+categories: reviews
 ---
 
 Review originally posted on Goodreads
