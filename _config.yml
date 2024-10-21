@@ -38,6 +38,10 @@ collections:
     output: false
     permalink: /:collection/:name
 
+toolbar_priority:        # Order of the items in the toolbar (except for blog and home)
+  - Fiction
+  - Reviews
+  # - Nonfiction
 
 # Build settings
 theme: minima
