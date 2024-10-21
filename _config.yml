@@ -27,6 +27,18 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://adamsayre.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  adamsayre
 
+collections:
+  fiction:
+    output: true
+    permalink: /:collection/:name
+  reviews:
+    output: true
+    permalink: /:collection/:name
+  nonfiction:
+    output: false
+    permalink: /:collection/:name
+
+
 # Build settings
 theme: minima
 plugins:
