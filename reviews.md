@@ -15,10 +15,6 @@ permalink: /reviews/
 </h3>
     {{ post.excerpt }}
 </li>
-{%- endfor -%}
 </ul>
 
-
 {% endfor %}
-
-
