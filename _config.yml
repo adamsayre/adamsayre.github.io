@@ -38,10 +38,18 @@ collections:
     output: false
     permalink: /:collection/:name
 
-toolbar_priority:        # Order of the items in the toolbar (except for blog and home)
-  - Fiction
-  - Reviews
-  # - Nonfiction
+header_pages:
+  - fiction.md
+  - reviews.md
+  # - nonfiction.md
+  - about.markdown
+
+show_excerpts: true
+
+minima:
+  social_links:
+    - { platform: bluesky, user_url: "https://bsky.app/profile/spookytwenty.bsky.social" }
+    - { platform: linkedin, user_url: "https://linkedin.com/in/adam-kleiman"}
 
 # Build settings
 theme: minima
