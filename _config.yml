@@ -55,9 +55,7 @@ minima:
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag
   - jekyll-paginate
-  - jekyll-sitemap
 
 google_anlytics: G-0XFCCRDCY2
 
