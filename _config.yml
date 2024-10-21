@@ -47,6 +47,11 @@ toolbar_priority:        # Order of the items in the toolbar (except for blog an
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-sitemap
+
+google_anlytics: G-0XFCCRDCY2
 
 # Exclude from processing.
 # The following items will not be processed, by default.
