@@ -18,8 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Adam's Site
-email: ats.kleiman@gmail.com
+title: Adam's Reviews and Thoughts
 description: >- # this means to ignore newlines until "baseurl:"
   Adam was born in New Mexico and lives in New York with his wife and dog. 
   He writes in his free time and works in data for a startup.
@@ -50,6 +49,7 @@ minima:
   social_links:
     - { platform: bluesky, user_url: "https://bsky.app/profile/spookytwenty.bsky.social" }
     - { platform: linkedin, user_url: "https://linkedin.com/in/adam-kleiman"}
+    - { platform: goodreads, user_url: "https://goodreads.com/in/atskleiman"}
 
 # Build settings
 theme: minima
